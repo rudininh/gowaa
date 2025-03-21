@@ -906,3 +906,11 @@
 
 [2025-03-21 09:43:00] Gagal mengirim gambar ke 6287815863556! Response: {"code":"INVALID_JID","message":"Phone 6287815863556@s.whatsapp.net is not on whatsapp"}
 
+[2025-03-21 09:47:35] Gagal mengirim teks ke 6281649720204! Response: {"code":"INVALID_JID","message":"Phone 6281649720204@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-21 09:47:35] Gagal mengirim gambar ke 6281649720204! Response: {"code":"INVALID_JID","message":"Phone 6281649720204@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-21 09:47:40] Gagal mengirim teks ke 6285332908436! Response: {"code":"INVALID_JID","message":"Phone 6285332908436@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-21 09:47:40] Gagal mengirim gambar ke 6285332908436! Response: {"code":"INVALID_JID","message":"Phone 6285332908436@s.whatsapp.net is not on whatsapp"}
+

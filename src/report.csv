@@ -1,0 +1,4 @@
+Nomor,Status,Waktu,Response
+6287715965694,Berhasil,2025-03-17 10:43:24,"{""code"":""SUCCESS"",""message"":""Message sent to 6287715965694@s.whatsapp.net (server timestamp: 2025-03-17 10:43:25 +0800 +08)"",""results"":{""message_id"":""3EB08E2951607BE073B7B4"",""status"":""Message sent to 6287715965694@s.whatsapp.net (server timestamp: 2025-03-17 10:43:25 +0800 +08)""}}"
+6281649036752,Berhasil,2025-03-17 10:43:33,"{""code"":""INVALID_JID"",""message"":""Phone 6281649036752@s.whatsapp.net is not on whatsapp""}"
+6281930102391,Berhasil,2025-03-17 10:43:36,"{""code"":""INVALID_JID"",""message"":""Phone 6281930102391@s.whatsapp.net is not on whatsapp""}"

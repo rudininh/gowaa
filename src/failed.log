@@ -1074,3 +1074,103 @@
 
 [2025-03-24 10:52:54] Gagal mengirim gambar ke 628996796707! Response: {"code":"INVALID_JID","message":"Phone 628996796707@s.whatsapp.net is not on whatsapp"}
 
+[2025-03-24 11:16:36] Gagal mengirim teks ke 6287715965694: Post "http://localhost:3000/send/message": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:36] Gagal mengirim gambar ke 6287715965694: Post "http://localhost:3000/send/image": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:42] Gagal mengirim teks ke 62895355605444: Post "http://localhost:3000/send/message": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:42] Gagal mengirim gambar ke 62895355605444: Post "http://localhost:3000/send/image": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:45] Gagal mengirim teks ke 6281258713066: Post "http://localhost:3000/send/message": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:45] Gagal mengirim gambar ke 6281258713066: Post "http://localhost:3000/send/image": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:52] Gagal mengirim teks ke 6289690800576: Post "http://localhost:3000/send/message": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:52] Gagal mengirim gambar ke 6289690800576: Post "http://localhost:3000/send/image": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:59] Gagal mengirim teks ke 6285821951931: Post "http://localhost:3000/send/message": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:16:59] Gagal mengirim gambar ke 6285821951931: Post "http://localhost:3000/send/image": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:17:31] Gagal mengirim teks ke 6287715965694: Post "http://localhost:3000/send/message": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:17:31] Gagal mengirim gambar ke 6287715965694: Post "http://localhost:3000/send/image": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2025-03-24 11:18:20] Gagal mengirim teks ke 6287715965694! Response: Unauthorized
+
+[2025-03-24 11:18:20] Gagal mengirim gambar ke 6287715965694! Response: Unauthorized
+
+[2025-03-24 11:23:47] Gagal mengirim teks ke 6287715965694! Response: Unauthorized
+
+[2025-03-24 11:23:47] Gagal mengirim gambar ke 6287715965694! Response: Unauthorized
+
+[2025-03-24 11:23:51] Gagal mengirim teks ke 62895355605444! Response: Unauthorized
+
+[2025-03-24 11:23:51] Gagal mengirim gambar ke 62895355605444! Response: Unauthorized
+
+[2025-03-24 11:25:32] Gagal mengirim teks ke 6287715965694! Response: Unauthorized
+
+[2025-03-24 11:25:32] Gagal mengirim gambar ke 6287715965694! Response: Unauthorized
+
+[2025-03-24 11:29:22] Gagal mengirim teks ke 6287715965694! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-03-24 11:29:23] Gagal mengirim gambar ke 6287715965694! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-03-24 11:45:40] Gagal mengirim teks ke 6281649065731! Response: {"code":"INVALID_JID","message":"Phone 6281649065731@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:45:41] Gagal mengirim gambar ke 6281649065731! Response: {"code":"INVALID_JID","message":"Phone 6281649065731@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:46:15] Gagal mengirim teks ke 6283155706270! Response: {"code":"INVALID_JID","message":"Phone 6283155706270@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:46:16] Gagal mengirim gambar ke 6283155706270! Response: {"code":"INVALID_JID","message":"Phone 6283155706270@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:53:00] Gagal mengirim teks ke 6282154346539! Response: {"code":"INVALID_JID","message":"Phone 6282154346539@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:53:01] Gagal mengirim gambar ke 6282154346539! Response: {"code":"INVALID_JID","message":"Phone 6282154346539@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:54:54] Gagal mengirim teks ke 6283153985044! Response: {"code":"INVALID_JID","message":"Phone 6283153985044@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:54:54] Gagal mengirim gambar ke 6283153985044! Response: {"code":"INVALID_JID","message":"Phone 6283153985044@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:56:53] Gagal mengirim teks ke 6282149320009! Response: {"code":"INVALID_JID","message":"Phone 6282149320009@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:56:53] Gagal mengirim gambar ke 6282149320009! Response: {"code":"INVALID_JID","message":"Phone 6282149320009@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:57:32] Gagal mengirim teks ke 6287896570380! Response: {"code":"INVALID_JID","message":"Phone 6287896570380@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 11:57:33] Gagal mengirim gambar ke 6287896570380! Response: {"code":"INVALID_JID","message":"Phone 6287896570380@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:04:45] Gagal mengirim teks ke 6289529557138! Response: {"code":"INVALID_JID","message":"Phone 6289529557138@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:04:46] Gagal mengirim gambar ke 6289529557138! Response: {"code":"INVALID_JID","message":"Phone 6289529557138@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:10:28] Gagal mengirim teks ke 6285251672894! Response: {"code":"INVALID_JID","message":"Phone 6285251672894@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:10:29] Gagal mengirim gambar ke 6285251672894! Response: {"code":"INVALID_JID","message":"Phone 6285251672894@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:13:33] Gagal mengirim teks ke 6285828484201! Response: {"code":"INVALID_JID","message":"Phone 6285828484201@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:13:33] Gagal mengirim gambar ke 6285828484201! Response: {"code":"INVALID_JID","message":"Phone 6285828484201@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:18:58] Gagal mengirim teks ke 6281375160721! Response: {"code":"INVALID_JID","message":"Phone 6281375160721@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:18:58] Gagal mengirim gambar ke 6281375160721! Response: {"code":"INVALID_JID","message":"Phone 6281375160721@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:20:03] Gagal mengirim teks ke 62811507775! Response: {"code":"INVALID_JID","message":"Phone 62811507775@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:20:03] Gagal mengirim gambar ke 62811507775! Response: {"code":"INVALID_JID","message":"Phone 62811507775@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:20:50] Gagal mengirim teks ke 6285787161684! Response: {"code":"INVALID_JID","message":"Phone 6285787161684@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:20:51] Gagal mengirim gambar ke 6285787161684! Response: {"code":"INVALID_JID","message":"Phone 6285787161684@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:21:54] Gagal mengirim teks ke 6282152305524! Response: {"code":"INVALID_JID","message":"Phone 6282152305524@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:21:54] Gagal mengirim gambar ke 6282152305524! Response: {"code":"INVALID_JID","message":"Phone 6282152305524@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:22:22] Gagal mengirim teks ke 6287812360725! Response: {"code":"INVALID_JID","message":"Phone 6287812360725@s.whatsapp.net is not on whatsapp"}
+
+[2025-03-24 12:22:22] Gagal mengirim gambar ke 6287812360725! Response: {"code":"INVALID_JID","message":"Phone 6287812360725@s.whatsapp.net is not on whatsapp"}
+

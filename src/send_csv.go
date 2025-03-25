@@ -134,20 +134,19 @@ func main() {
     defer failedFile.Close()
     failedLog := bufio.NewWriter(failedFile)
 
-    fixedMessage := `BUKU SAKU TAPERA
-
-BADAN KEPEGAWAIAN DAERAH DIKLAT KOTA BANJARMASIN
+    fixedMessage := `BADAN KEPEGAWAIAN DAERAH DIKLAT KOTA BANJARMASIN
 https://bkd.banjarmasinkota.go.id
 
-Informasi
-Bagi peserta Tapera yang belum melakukan pemutakhiran data agar dapat segera melakukan updating data Tapera.
+Yth. Bapak/Ibu, izin menyampaikan bahwa Penilaian SKP Tahun 2024 pada Aplikasi e-Kinerja telah dibuka kembali untuk Periode Final (Tahunan) 2024.
 
-Buku Panduan Pemutakhiran Data PNS
-https://drive.google.com/file/d/1HfDteZlsp14ASf5JgfwQR9QOc6LCrr9v/view?usp=sharing
 
-Demikian disampaikan, terima kasih.
+Pembukaan kembali periode ini berlaku sejak tanggal 24 Maret s.d. 30 April 2025.
 
-Mohon untuk tidak menghubungi/membalas WA nomor ini.`
+Dimohon untuk seluruh ASN (PNS dan PPPK) yang belum menyelesaikan penilaian SKP Tahunan 2024 pada Aplikasi e-Kinerja agar dapat menyelesaikan penginputan dan penilaian karena setelah batas waktu berakhir akan dilakukan finaliasi dan tidak ada pembukaan kembali.
+
+Catatan: Khusus untuk ASN Guru dan Kepala Sekolah, pengelolaan dan penilaian SKP periode Final (Tahunan) 2024 diilakukan melalui Aplikasi PMM  atau Ruang GTK, kemudian disinkron melalui akun e-Kinerja masing-masing
+
+Demikian disampaikan, terima kasih.`
 
     for _, record := range records {
         if len(record) < 1 {
@@ -157,7 +156,7 @@ Mohon untuk tidak menghubungi/membalas WA nomor ini.`
         phone := record[0]
         sendTextMessage(phone, fixedMessage, successLog, failedLog)
 
-        imageURL := "https://app.banjarmasinkota.go.id/sidinketik/img/tapera.png" // Gantilah dengan URL gambar yang sesuai
+        imageURL := "https://app.banjarmasinkota.go.id/sidinketik/img/skp.png" // Gantilah dengan URL gambar yang sesuai
         sendImageMessageFromURL(phone, imageURL, successLog, failedLog)
 
         delay := 3 + rand.Intn(8)

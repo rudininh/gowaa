@@ -1522,3 +1522,543 @@
 
 [2025-03-24 16:45:57] Gagal mengirim gambar ke 6289677682592! Response: {"code":"INVALID_JID","message":"Phone 6289677682592@s.whatsapp.net is not on whatsapp"}
 
+[2025-06-03 08:30:13] Gagal mengirim teks ke 622155541024! Response: {"code":"INVALID_JID","message":"Phone 622155541024@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:13] Gagal mengirim gambar ke 622155541024! Response: {"code":"INVALID_JID","message":"Phone 622155541024@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:23] Gagal mengirim teks ke 622358796565! Response: {"code":"INVALID_JID","message":"Phone 622358796565@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:24] Gagal mengirim gambar ke 622358796565! Response: {"code":"INVALID_JID","message":"Phone 622358796565@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:32] Gagal mengirim teks ke 625349739815! Response: {"code":"INVALID_JID","message":"Phone 625349739815@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:32] Gagal mengirim gambar ke 625349739815! Response: {"code":"INVALID_JID","message":"Phone 625349739815@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:44] Gagal mengirim teks ke 629690595760! Response: {"code":"INVALID_JID","message":"Phone 629690595760@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:44] Gagal mengirim gambar ke 629690595760! Response: {"code":"INVALID_JID","message":"Phone 629690595760@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:52] Gagal mengirim teks ke 621351820250! Response: {"code":"INVALID_JID","message":"Phone 621351820250@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:30:52] Gagal mengirim gambar ke 621351820250! Response: {"code":"INVALID_JID","message":"Phone 621351820250@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:31:01] Gagal mengirim teks ke 622350538486! Response: {"code":"INVALID_JID","message":"Phone 622350538486@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:31:01] Gagal mengirim gambar ke 622350538486! Response: {"code":"INVALID_JID","message":"Phone 622350538486@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:31:09] Gagal mengirim teks ke 623879074712! Response: {"code":"INVALID_JID","message":"Phone 623879074712@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:31:09] Gagal mengirim gambar ke 623879074712! Response: {"code":"INVALID_JID","message":"Phone 623879074712@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:31:20] Gagal mengirim teks ke 625186058890! Response: {"code":"INVALID_JID","message":"Phone 625186058890@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:31:20] Gagal mengirim gambar ke 625186058890! Response: {"code":"INVALID_JID","message":"Phone 625186058890@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:46:10] Gagal mengirim teks ke 62811500064! Response: {"code":"INVALID_JID","message":"Phone 62811500064@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:46:10] Gagal mengirim gambar ke 62811500064! Response: {"code":"INVALID_JID","message":"Phone 62811500064@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:57:00] Gagal mengirim teks ke 6285332956471! Response: {"code":"INVALID_JID","message":"Phone 6285332956471@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 08:57:00] Gagal mengirim gambar ke 6285332956471! Response: {"code":"INVALID_JID","message":"Phone 6285332956471@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:04:52] Gagal mengirim teks ke 62882022058110! Response: {"code":"INVALID_JID","message":"Phone 62882022058110@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:04:52] Gagal mengirim gambar ke 62882022058110! Response: {"code":"INVALID_JID","message":"Phone 62882022058110@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:20:50] Gagal mengirim teks ke 628971579627! Response: {"code":"INVALID_JID","message":"Phone 628971579627@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:20:50] Gagal mengirim gambar ke 628971579627! Response: {"code":"INVALID_JID","message":"Phone 628971579627@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:21:05] Gagal mengirim teks ke 6285894643501! Response: {"code":"INVALID_JID","message":"Phone 6285894643501@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:21:05] Gagal mengirim gambar ke 6285894643501! Response: {"code":"INVALID_JID","message":"Phone 6285894643501@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:26:54] Gagal mengirim gambar ke 6287874240653! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to download image from URL Get \"https://app.banjarmasinkota.go.id/sidinketik/img/absenpppk.jpeg\": EOF"}
+
+[2025-06-03 09:31:43] Gagal mengirim teks ke 6285252363549! Response: {"code":"INVALID_JID","message":"Phone 6285252363549@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:31:43] Gagal mengirim gambar ke 6285252363549! Response: {"code":"INVALID_JID","message":"Phone 6285252363549@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:46:21] Gagal mengirim teks ke 6285754707033! Response: {"code":"INVALID_JID","message":"Phone 6285754707033@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:46:21] Gagal mengirim gambar ke 6285754707033! Response: {"code":"INVALID_JID","message":"Phone 6285754707033@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:52:30] Gagal mengirim teks ke 6281522777803! Response: {"code":"INVALID_JID","message":"Phone 6281522777803@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:52:31] Gagal mengirim gambar ke 6281522777803! Response: {"code":"INVALID_JID","message":"Phone 6281522777803@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:52:52] Gagal mengirim teks ke 6282159363710! Response: {"code":"INVALID_JID","message":"Phone 6282159363710@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 09:52:52] Gagal mengirim gambar ke 6282159363710! Response: {"code":"INVALID_JID","message":"Phone 6282159363710@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:10:54] Gagal mengirim teks ke 6281257027398! Response: {"code":"INVALID_JID","message":"Phone 6281257027398@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:10:54] Gagal mengirim gambar ke 6281257027398! Response: {"code":"INVALID_JID","message":"Phone 6281257027398@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:12:09] Gagal mengirim teks ke 6282358733183! Response: {"code":"INVALID_JID","message":"Phone 6282358733183@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:12:10] Gagal mengirim gambar ke 6282358733183! Response: {"code":"INVALID_JID","message":"Phone 6282358733183@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:14:59] Gagal mengirim teks ke 6287888770808! Response: {"code":"INVALID_JID","message":"Phone 6287888770808@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:14:59] Gagal mengirim gambar ke 6287888770808! Response: {"code":"INVALID_JID","message":"Phone 6287888770808@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:25:11] Gagal mengirim gambar ke 6282254929595! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to download image from URL Get \"https://app.banjarmasinkota.go.id/sidinketik/img/absenpppk.jpeg\": net/http: TLS handshake timeout"}
+
+[2025-06-03 10:30:30] Gagal mengirim teks ke 6281256509659! Response: {"code":"INVALID_JID","message":"Phone 6281256509659@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:30:30] Gagal mengirim gambar ke 6281256509659! Response: {"code":"INVALID_JID","message":"Phone 6281256509659@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:30:56] Gagal mengirim teks ke 6282157329770! Response: {"code":"INVALID_JID","message":"Phone 6282157329770@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:30:56] Gagal mengirim gambar ke 6282157329770! Response: {"code":"INVALID_JID","message":"Phone 6282157329770@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:37:08] Gagal mengirim teks ke 6285248171176! Response: {"code":"INVALID_JID","message":"Phone 6285248171176@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:37:08] Gagal mengirim gambar ke 6285248171176! Response: {"code":"INVALID_JID","message":"Phone 6285248171176@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:41:40] Gagal mengirim teks ke 6287727924414! Response: {"code":"INVALID_JID","message":"Phone 6287727924414@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:41:40] Gagal mengirim gambar ke 6287727924414! Response: {"code":"INVALID_JID","message":"Phone 6287727924414@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:45:33] Gagal mengirim teks ke 6281357147529! Response: {"code":"INVALID_JID","message":"Phone 6281357147529@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:45:33] Gagal mengirim gambar ke 6281357147529! Response: {"code":"INVALID_JID","message":"Phone 6281357147529@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:55:30] Gagal mengirim teks ke 6285366763006! Response: {"code":"INVALID_JID","message":"Phone 6285366763006@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:55:31] Gagal mengirim gambar ke 6285366763006! Response: {"code":"INVALID_JID","message":"Phone 6285366763006@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:56:02] Gagal mengirim teks ke 6285161055456! Response: {"code":"INVALID_JID","message":"Phone 6285161055456@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:56:02] Gagal mengirim gambar ke 6285161055456! Response: {"code":"INVALID_JID","message":"Phone 6285161055456@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:56:25] Gagal mengirim teks ke 62628125116968! Response: {"code":"INVALID_JID","message":"Phone 62628125116968@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:56:26] Gagal mengirim gambar ke 62628125116968! Response: {"code":"INVALID_JID","message":"Phone 62628125116968@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:56:56] Gagal mengirim teks ke 62895363977500! Response: {"code":"INVALID_JID","message":"Phone 62895363977500@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 10:56:56] Gagal mengirim gambar ke 62895363977500! Response: {"code":"INVALID_JID","message":"Phone 62895363977500@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:03:35] Gagal mengirim teks ke 6289534156685! Response: {"code":"INVALID_JID","message":"Phone 6289534156685@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:03:36] Gagal mengirim gambar ke 6289534156685! Response: {"code":"INVALID_JID","message":"Phone 6289534156685@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:07:47] Gagal mengirim teks ke 6281251314124! Response: {"code":"INVALID_JID","message":"Phone 6281251314124@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:07:47] Gagal mengirim gambar ke 6281251314124! Response: {"code":"INVALID_JID","message":"Phone 6281251314124@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:11:07] Gagal mengirim teks ke 6283153234456! Response: {"code":"INVALID_JID","message":"Phone 6283153234456@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:11:07] Gagal mengirim gambar ke 6283153234456! Response: {"code":"INVALID_JID","message":"Phone 6283153234456@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:12:28] Gagal mengirim teks ke 6289677682592! Response: {"code":"INVALID_JID","message":"Phone 6289677682592@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:12:28] Gagal mengirim gambar ke 6289677682592! Response: {"code":"INVALID_JID","message":"Phone 6289677682592@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:16:30] Gagal mengirim teks ke 6283875292829! Response: {"code":"INVALID_JID","message":"Phone 6283875292829@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:16:30] Gagal mengirim gambar ke 6283875292829! Response: {"code":"INVALID_JID","message":"Phone 6283875292829@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:27:34] Gagal mengirim teks ke 6285248626843! Response: {"code":"INVALID_JID","message":"Phone 6285248626843@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:27:35] Gagal mengirim gambar ke 6285248626843! Response: {"code":"INVALID_JID","message":"Phone 6285248626843@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:28:06] Gagal mengirim teks ke 6287883785737! Response: {"code":"INVALID_JID","message":"Phone 6287883785737@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:28:06] Gagal mengirim gambar ke 6287883785737! Response: {"code":"INVALID_JID","message":"Phone 6287883785737@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:39:22] Gagal mengirim teks ke 6281256227808! Response: {"code":"INVALID_JID","message":"Phone 6281256227808@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:39:22] Gagal mengirim gambar ke 6281256227808! Response: {"code":"INVALID_JID","message":"Phone 6281256227808@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:41:17] Gagal mengirim teks ke 62895604839935! Response: {"code":"INVALID_JID","message":"Phone 62895604839935@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:41:18] Gagal mengirim gambar ke 62895604839935! Response: {"code":"INVALID_JID","message":"Phone 62895604839935@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:49:02] Gagal mengirim teks ke 62! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-03 11:50:19] Gagal mengirim gambar ke 62! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-03 11:52:05] Gagal mengirim teks ke 6285754172817! Response: {"code":"INVALID_JID","message":"Phone 6285754172817@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:52:05] Gagal mengirim gambar ke 6285754172817! Response: {"code":"INVALID_JID","message":"Phone 6285754172817@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:55:19] Gagal mengirim teks ke 6285754297361! Response: {"code":"INVALID_JID","message":"Phone 6285754297361@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:55:19] Gagal mengirim gambar ke 6285754297361! Response: {"code":"INVALID_JID","message":"Phone 6285754297361@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:58:16] Gagal mengirim teks ke 628125673376! Response: {"code":"INVALID_JID","message":"Phone 628125673376@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:58:17] Gagal mengirim gambar ke 628125673376! Response: {"code":"INVALID_JID","message":"Phone 628125673376@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:58:35] Gagal mengirim teks ke 6281254269492! Response: {"code":"INVALID_JID","message":"Phone 6281254269492@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 11:58:36] Gagal mengirim gambar ke 6281254269492! Response: {"code":"INVALID_JID","message":"Phone 6281254269492@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:00:56] Gagal mengirim gambar ke 6285787371667! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to download image from URL Get \"https://app.banjarmasinkota.go.id/sidinketik/img/absenpppk.jpeg\": net/http: TLS handshake timeout"}
+
+[2025-06-03 12:01:49] Gagal mengirim teks ke 6283144957570! Response: {"code":"INVALID_JID","message":"Phone 6283144957570@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:01:49] Gagal mengirim gambar ke 6283144957570! Response: {"code":"INVALID_JID","message":"Phone 6283144957570@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:02:36] Gagal mengirim teks ke 6283153232673! Response: {"code":"INVALID_JID","message":"Phone 6283153232673@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:02:36] Gagal mengirim gambar ke 6283153232673! Response: {"code":"INVALID_JID","message":"Phone 6283153232673@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:05:28] Gagal mengirim teks ke 6285348489565! Response: {"code":"INVALID_JID","message":"Phone 6285348489565@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:05:28] Gagal mengirim gambar ke 6285348489565! Response: {"code":"INVALID_JID","message":"Phone 6285348489565@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:06:56] Gagal mengirim teks ke 6285654730188! Response: {"code":"INVALID_JID","message":"Phone 6285654730188@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:06:56] Gagal mengirim gambar ke 6285654730188! Response: {"code":"INVALID_JID","message":"Phone 6285654730188@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:07:04] Gagal mengirim teks ke 6285248920400! Response: {"code":"INVALID_JID","message":"Phone 6285248920400@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:07:04] Gagal mengirim gambar ke 6285248920400! Response: {"code":"INVALID_JID","message":"Phone 6285248920400@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:08:18] Gagal mengirim teks ke 6285249044758! Response: {"code":"INVALID_JID","message":"Phone 6285249044758@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:08:18] Gagal mengirim gambar ke 6285249044758! Response: {"code":"INVALID_JID","message":"Phone 6285249044758@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:09:17] Gagal mengirim teks ke 6285101383374! Response: {"code":"INVALID_JID","message":"Phone 6285101383374@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:09:17] Gagal mengirim gambar ke 6285101383374! Response: {"code":"INVALID_JID","message":"Phone 6285101383374@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:10:16] Gagal mengirim teks ke 6282154346539! Response: {"code":"INVALID_JID","message":"Phone 6282154346539@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:10:16] Gagal mengirim gambar ke 6282154346539! Response: {"code":"INVALID_JID","message":"Phone 6282154346539@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:15:50] Gagal mengirim teks ke 6287896570380! Response: {"code":"INVALID_JID","message":"Phone 6287896570380@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:15:51] Gagal mengirim gambar ke 6287896570380! Response: {"code":"INVALID_JID","message":"Phone 6287896570380@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:30:28] Gagal mengirim teks ke 6281938804398! Response: {"code":"INVALID_JID","message":"Phone 6281938804398@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:30:28] Gagal mengirim gambar ke 6281938804398! Response: {"code":"INVALID_JID","message":"Phone 6281938804398@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:30:50] Gagal mengirim teks ke 6281351936226! Response: {"code":"INVALID_JID","message":"Phone 6281351936226@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:30:50] Gagal mengirim gambar ke 6281351936226! Response: {"code":"INVALID_JID","message":"Phone 6281351936226@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:31:30] Gagal mengirim teks ke 6281375160721! Response: {"code":"INVALID_JID","message":"Phone 6281375160721@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:31:30] Gagal mengirim gambar ke 6281375160721! Response: {"code":"INVALID_JID","message":"Phone 6281375160721@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:34:37] Gagal mengirim teks ke 6285100151758! Response: {"code":"INVALID_JID","message":"Phone 6285100151758@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:34:37] Gagal mengirim gambar ke 6285100151758! Response: {"code":"INVALID_JID","message":"Phone 6285100151758@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:38:50] Gagal mengirim teks ke 6283127611042! Response: {"code":"INVALID_JID","message":"Phone 6283127611042@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:38:50] Gagal mengirim gambar ke 6283127611042! Response: {"code":"INVALID_JID","message":"Phone 6283127611042@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:42:57] Gagal mengirim teks ke 089691562755! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-03 12:44:25] Gagal mengirim gambar ke 089691562755! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-03 12:57:31] Gagal mengirim teks ke 6285388260415! Response: {"code":"INVALID_JID","message":"Phone 6285388260415@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 12:57:31] Gagal mengirim gambar ke 6285388260415! Response: {"code":"INVALID_JID","message":"Phone 6285388260415@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:04:13] Gagal mengirim teks ke 6285100284312! Response: {"code":"INVALID_JID","message":"Phone 6285100284312@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:04:13] Gagal mengirim gambar ke 6285100284312! Response: {"code":"INVALID_JID","message":"Phone 6285100284312@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:08:53] Gagal mengirim teks ke 628996796707! Response: {"code":"INVALID_JID","message":"Phone 628996796707@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:08:54] Gagal mengirim gambar ke 628996796707! Response: {"code":"INVALID_JID","message":"Phone 628996796707@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:09:35] Gagal mengirim teks ke 6287814007616! Response: {"code":"INVALID_JID","message":"Phone 6287814007616@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:09:36] Gagal mengirim gambar ke 6287814007616! Response: {"code":"INVALID_JID","message":"Phone 6287814007616@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:11:43] Gagal mengirim teks ke 62628781635304! Response: {"code":"INVALID_JID","message":"Phone 62628781635304@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:11:43] Gagal mengirim gambar ke 62628781635304! Response: {"code":"INVALID_JID","message":"Phone 62628781635304@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:13:26] Gagal mengirim teks ke 6285332908436! Response: {"code":"INVALID_JID","message":"Phone 6285332908436@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:13:27] Gagal mengirim gambar ke 6285332908436! Response: {"code":"INVALID_JID","message":"Phone 6285332908436@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:18:02] Gagal mengirim teks ke 6285776161049! Response: {"code":"INVALID_JID","message":"Phone 6285776161049@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:18:02] Gagal mengirim gambar ke 6285776161049! Response: {"code":"INVALID_JID","message":"Phone 6285776161049@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:19:47] Gagal mengirim teks ke 6285347075898! Response: {"code":"INVALID_JID","message":"Phone 6285347075898@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:19:47] Gagal mengirim gambar ke 6285347075898! Response: {"code":"INVALID_JID","message":"Phone 6285347075898@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:22:51] Gagal mengirim teks ke 6283155706270! Response: {"code":"INVALID_JID","message":"Phone 6283155706270@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:22:51] Gagal mengirim gambar ke 6283155706270! Response: {"code":"INVALID_JID","message":"Phone 6283155706270@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:29:35] Gagal mengirim teks ke 6283153985044! Response: {"code":"INVALID_JID","message":"Phone 6283153985044@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:29:36] Gagal mengirim gambar ke 6283153985044! Response: {"code":"INVALID_JID","message":"Phone 6283153985044@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:36:22] Gagal mengirim teks ke 6287728490209! Response: {"code":"INVALID_JID","message":"Phone 6287728490209@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:36:22] Gagal mengirim gambar ke 6287728490209! Response: {"code":"INVALID_JID","message":"Phone 6287728490209@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:54:01] Gagal mengirim teks ke 6285349960009! Response: {"code":"INVALID_JID","message":"Phone 6285349960009@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:54:02] Gagal mengirim gambar ke 6285349960009! Response: {"code":"INVALID_JID","message":"Phone 6285349960009@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:56:44] Gagal mengirim teks ke 6289671402274! Response: {"code":"INVALID_JID","message":"Phone 6289671402274@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:56:44] Gagal mengirim gambar ke 6289671402274! Response: {"code":"INVALID_JID","message":"Phone 6289671402274@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:57:58] Gagal mengirim teks ke 6282157705811! Response: {"code":"INVALID_JID","message":"Phone 6282157705811@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:57:58] Gagal mengirim gambar ke 6282157705811! Response: {"code":"INVALID_JID","message":"Phone 6282157705811@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:59:33] Gagal mengirim teks ke 6285821299213! Response: {"code":"INVALID_JID","message":"Phone 6285821299213@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:59:33] Gagal mengirim gambar ke 6285821299213! Response: {"code":"INVALID_JID","message":"Phone 6285821299213@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:59:45] Gagal mengirim teks ke 6283155665470! Response: {"code":"INVALID_JID","message":"Phone 6283155665470@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 13:59:45] Gagal mengirim gambar ke 6283155665470! Response: {"code":"INVALID_JID","message":"Phone 6283155665470@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:01:01] Gagal mengirim teks ke 6285248154681! Response: {"code":"INVALID_JID","message":"Phone 6285248154681@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:01:01] Gagal mengirim gambar ke 6285248154681! Response: {"code":"INVALID_JID","message":"Phone 6285248154681@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:16:25] Gagal mengirim teks ke 62816791816! Response: {"code":"INVALID_JID","message":"Phone 62816791816@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:16:25] Gagal mengirim gambar ke 62816791816! Response: {"code":"INVALID_JID","message":"Phone 62816791816@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:16:34] Gagal mengirim teks ke 6281256593420! Response: {"code":"INVALID_JID","message":"Phone 6281256593420@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:16:34] Gagal mengirim gambar ke 6281256593420! Response: {"code":"INVALID_JID","message":"Phone 6281256593420@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:18:14] Gagal mengirim teks ke 6281912948440! Response: {"code":"INVALID_JID","message":"Phone 6281912948440@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:18:14] Gagal mengirim gambar ke 6281912948440! Response: {"code":"INVALID_JID","message":"Phone 6281912948440@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:21:03] Gagal mengirim teks ke 6285251672894! Response: {"code":"INVALID_JID","message":"Phone 6285251672894@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:21:03] Gagal mengirim gambar ke 6285251672894! Response: {"code":"INVALID_JID","message":"Phone 6285251672894@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:28:07] Gagal mengirim teks ke 626287850121633! Response: {"code":"INVALID_JID","message":"Phone 626287850121633@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:28:07] Gagal mengirim gambar ke 626287850121633! Response: {"code":"INVALID_JID","message":"Phone 626287850121633@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:29:21] Gagal mengirim teks ke 6289631614441! Response: {"code":"INVALID_JID","message":"Phone 6289631614441@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:29:21] Gagal mengirim gambar ke 6289631614441! Response: {"code":"INVALID_JID","message":"Phone 6289631614441@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:33:33] Gagal mengirim teks ke 6281545666642! Response: {"code":"INVALID_JID","message":"Phone 6281545666642@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:33:33] Gagal mengirim gambar ke 6281545666642! Response: {"code":"INVALID_JID","message":"Phone 6281545666642@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:34:43] Gagal mengirim teks ke 6285754291017! Response: {"code":"INVALID_JID","message":"Phone 6285754291017@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:34:43] Gagal mengirim gambar ke 6285754291017! Response: {"code":"INVALID_JID","message":"Phone 6285754291017@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:39:37] Gagal mengirim teks ke 6287817175898! Response: {"code":"INVALID_JID","message":"Phone 6287817175898@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:39:38] Gagal mengirim gambar ke 6287817175898! Response: {"code":"INVALID_JID","message":"Phone 6287817175898@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:39:51] Gagal mengirim teks ke 6287815863556! Response: {"code":"INVALID_JID","message":"Phone 6287815863556@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:39:51] Gagal mengirim gambar ke 6287815863556! Response: {"code":"INVALID_JID","message":"Phone 6287815863556@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:40:58] Gagal mengirim teks ke 628225605102! Response: {"code":"INVALID_JID","message":"Phone 628225605102@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:40:58] Gagal mengirim gambar ke 628225605102! Response: {"code":"INVALID_JID","message":"Phone 628225605102@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-03 14:43:18] Gagal mengirim gambar ke 6282190595304! Response: {"code":"INTERNAL_SERVER_ERROR","message":"timed out waiting for message send response"}
+
+[2025-06-03 14:43:28] Gagal mengirim teks ke 6285849618488! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:43:28] Gagal mengirim gambar ke 6285849618488! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:43:35] Gagal mengirim teks ke 6281346426157! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:43:35] Gagal mengirim gambar ke 6281346426157! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:43:45] Gagal mengirim teks ke 6283150228283! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:43:45] Gagal mengirim gambar ke 6283150228283! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:43:57] Gagal mengirim teks ke 6285750847036! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:43:57] Gagal mengirim gambar ke 6285750847036! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:06] Gagal mengirim teks ke 6285390614868! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:06] Gagal mengirim gambar ke 6285390614868! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:16] Gagal mengirim teks ke 6281253676102! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:16] Gagal mengirim gambar ke 6281253676102! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:27] Gagal mengirim teks ke 628164537416! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:27] Gagal mengirim gambar ke 628164537416! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:40] Gagal mengirim teks ke 6281254005113! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:40] Gagal mengirim gambar ke 6281254005113! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:48] Gagal mengirim teks ke 6285751133441! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-03 14:44:48] Gagal mengirim gambar ke 6285751133441! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not logged in"}
+
+[2025-06-04 10:25:16] Gagal mengirim teks ke 6289525003703! Response: {"code":"INVALID_JID","message":"Phone 6289525003703@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 10:25:16] Gagal mengirim gambar ke 6289525003703! Response: {"code":"INVALID_JID","message":"Phone 6289525003703@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 10:34:27] Gagal mengirim teks ke 6282240483282! Response: {"code":"INVALID_JID","message":"Phone 6282240483282@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 10:34:27] Gagal mengirim gambar ke 6282240483282! Response: {"code":"INVALID_JID","message":"Phone 6282240483282@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 11:19:30] Gagal mengirim teks ke 6281904370921! Response: {"code":"INVALID_JID","message":"Phone 6281904370921@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 11:19:30] Gagal mengirim gambar ke 6281904370921! Response: {"code":"INVALID_JID","message":"Phone 6281904370921@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 11:40:05] Gagal mengirim teks ke 6281257376353! Response: {"code":"INVALID_JID","message":"Phone 6281257376353@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 11:40:05] Gagal mengirim gambar ke 6281257376353! Response: {"code":"INVALID_JID","message":"Phone 6281257376353@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 12:00:23] Gagal mengirim teks ke 62628773563989! Response: {"code":"INVALID_JID","message":"Phone 62628773563989@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 12:00:23] Gagal mengirim gambar ke 62628773563989! Response: {"code":"INVALID_JID","message":"Phone 62628773563989@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 12:14:06] Gagal mengirim teks ke 6281649065731! Response: {"code":"INVALID_JID","message":"Phone 6281649065731@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 12:14:06] Gagal mengirim gambar ke 6281649065731! Response: {"code":"INVALID_JID","message":"Phone 6281649065731@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 12:32:29] Gagal mengirim teks ke 62! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-04 12:33:57] Gagal mengirim gambar ke 62! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-04 12:35:05] Gagal mengirim teks ke 6281933767618! Response: {"code":"INVALID_JID","message":"Phone 6281933767618@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 12:35:06] Gagal mengirim gambar ke 6281933767618! Response: {"code":"INVALID_JID","message":"Phone 6281933767618@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 12:49:22] Gagal mengirim teks ke 62! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-04 12:50:40] Gagal mengirim gambar ke 62! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-04 13:25:18] Gagal mengirim teks ke 6282353952370! Response: {"code":"INVALID_JID","message":"Phone 6282353952370@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 13:25:18] Gagal mengirim gambar ke 6282353952370! Response: {"code":"INVALID_JID","message":"Phone 6282353952370@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 13:28:53] Gagal mengirim teks ke 62! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-04 13:30:10] Gagal mengirim gambar ke 62! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-04 14:25:57] Gagal mengirim teks ke 6281953510798! Response: {"code":"INVALID_JID","message":"Phone 6281953510798@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 14:25:57] Gagal mengirim gambar ke 6281953510798! Response: {"code":"INVALID_JID","message":"Phone 6281953510798@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 14:58:23] Gagal mengirim teks ke 620! Response: {"code":"INVALID_JID","message":"Phone 620@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 14:58:24] Gagal mengirim gambar ke 620! Response: {"code":"INVALID_JID","message":"Phone 620@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 15:15:04] Gagal mengirim teks ke 6285251572637! Response: {"code":"INVALID_JID","message":"Phone 6285251572637@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 15:15:04] Gagal mengirim gambar ke 6285251572637! Response: {"code":"INVALID_JID","message":"Phone 6285251572637@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 15:34:13] Gagal mengirim teks ke 6281649720204! Response: {"code":"INVALID_JID","message":"Phone 6281649720204@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 15:34:13] Gagal mengirim gambar ke 6281649720204! Response: {"code":"INVALID_JID","message":"Phone 6281649720204@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 16:12:56] Gagal mengirim teks ke 6283125301186! Response: {"code":"INVALID_JID","message":"Phone 6283125301186@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 16:12:56] Gagal mengirim gambar ke 6283125301186! Response: {"code":"INVALID_JID","message":"Phone 6283125301186@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 16:25:29] Gagal mengirim teks ke 6285740654128! Response: {"code":"INVALID_JID","message":"Phone 6285740654128@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 16:25:29] Gagal mengirim gambar ke 6285740654128! Response: {"code":"INVALID_JID","message":"Phone 6285740654128@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 17:30:54] Gagal mengirim teks ke 6281254072376! Response: {"code":"INVALID_JID","message":"Phone 6281254072376@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 17:30:54] Gagal mengirim gambar ke 6281254072376! Response: {"code":"INVALID_JID","message":"Phone 6281254072376@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 17:51:51] Gagal mengirim teks ke 6285828484201! Response: {"code":"INVALID_JID","message":"Phone 6285828484201@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 17:51:51] Gagal mengirim gambar ke 6285828484201! Response: {"code":"INVALID_JID","message":"Phone 6285828484201@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 18:06:27] Gagal mengirim teks ke 6282152305524! Response: {"code":"INVALID_JID","message":"Phone 6282152305524@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 18:06:27] Gagal mengirim gambar ke 6282152305524! Response: {"code":"INVALID_JID","message":"Phone 6282152305524@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 18:19:20] Gagal mengirim teks ke 6285828121948! Response: {"code":"INVALID_JID","message":"Phone 6285828121948@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 18:19:20] Gagal mengirim gambar ke 6285828121948! Response: {"code":"INVALID_JID","message":"Phone 6285828121948@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 18:39:39] Gagal mengirim gambar ke 6282251931412! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to download image from URL Get \"https://app.banjarmasinkota.go.id/sidinketik/img/absenpppk.jpeg\": net/http: TLS handshake timeout"}
+
+[2025-06-04 19:44:26] Gagal mengirim teks ke 6285751519964! Response: {"code":"INVALID_JID","message":"Phone 6285751519964@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 19:44:27] Gagal mengirim gambar ke 6285751519964! Response: {"code":"INVALID_JID","message":"Phone 6285751519964@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 19:50:18] Gagal mengirim teks ke 6281257241671! Response: {"code":"INVALID_JID","message":"Phone 6281257241671@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 19:50:19] Gagal mengirim gambar ke 6281257241671! Response: {"code":"INVALID_JID","message":"Phone 6281257241671@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 20:35:40] Gagal mengirim teks ke 6285654403944! Response: {"code":"INVALID_JID","message":"Phone 6285654403944@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 20:35:40] Gagal mengirim gambar ke 6285654403944! Response: {"code":"INVALID_JID","message":"Phone 6285654403944@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 21:47:20] Gagal mengirim teks ke 6287819301013! Response: {"code":"INVALID_JID","message":"Phone 6287819301013@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 21:47:20] Gagal mengirim gambar ke 6287819301013! Response: {"code":"INVALID_JID","message":"Phone 6287819301013@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 22:52:23] Gagal mengirim teks ke 6281316293416! Response: {"code":"INVALID_JID","message":"Phone 6281316293416@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 22:52:23] Gagal mengirim gambar ke 6281316293416! Response: {"code":"INVALID_JID","message":"Phone 6281316293416@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 23:55:23] Gagal mengirim teks ke 6285251404611! Response: {"code":"INVALID_JID","message":"Phone 6285251404611@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-04 23:55:23] Gagal mengirim gambar ke 6285251404611! Response: {"code":"INVALID_JID","message":"Phone 6285251404611@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 00:05:19] Gagal mengirim teks ke 6287777736999! Response: {"code":"INVALID_JID","message":"Phone 6287777736999@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 00:05:20] Gagal mengirim gambar ke 6287777736999! Response: {"code":"INVALID_JID","message":"Phone 6287777736999@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 00:57:08] Gagal mengirim teks ke 6282149320009! Response: {"code":"INVALID_JID","message":"Phone 6282149320009@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 00:57:08] Gagal mengirim gambar ke 6282149320009! Response: {"code":"INVALID_JID","message":"Phone 6282149320009@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:28:46] Gagal mengirim teks ke 6287812360725! Response: {"code":"INVALID_JID","message":"Phone 6287812360725@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:28:47] Gagal mengirim gambar ke 6287812360725! Response: {"code":"INVALID_JID","message":"Phone 6287812360725@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:31:53] Gagal mengirim teks ke 6285930444435! Response: {"code":"INVALID_JID","message":"Phone 6285930444435@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:31:53] Gagal mengirim gambar ke 6285930444435! Response: {"code":"INVALID_JID","message":"Phone 6285930444435@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:42:22] Gagal mengirim teks ke 6281549606815! Response: {"code":"INVALID_JID","message":"Phone 6281549606815@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:42:22] Gagal mengirim gambar ke 6281549606815! Response: {"code":"INVALID_JID","message":"Phone 6281549606815@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:46:22] Gagal mengirim teks ke 6282155957485! Response: {"code":"INVALID_JID","message":"Phone 6282155957485@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:46:22] Gagal mengirim gambar ke 6282155957485! Response: {"code":"INVALID_JID","message":"Phone 6282155957485@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:52:51] Gagal mengirim teks ke 6289602780321! Response: {"code":"INVALID_JID","message":"Phone 6289602780321@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 01:52:51] Gagal mengirim gambar ke 6289602780321! Response: {"code":"INVALID_JID","message":"Phone 6289602780321@s.whatsapp.net is not on whatsapp"}
+
+[2025-06-05 02:09:34] Gagal mengirim teks ke 6285845706192c! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2025-06-05 02:10:50] Gagal mengirim gambar ke 6285845706192c! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to get device list: failed to send usync query: info query timed out"}
+
+[2026-02-20 09:45:22] Gagal mengirim teks ke 6287715965694: Post "http://localhost:3000/send/message": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2026-02-20 09:45:22] Gagal mengirim gambar ke 6287715965694: Post "http://localhost:3000/send/image": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[2026-02-20 09:52:04] Gagal mengirim gambar ke 6287715965694! Response: {"code":"INTERNAL_SERVER_ERROR","message":"failed to download image from URL Get \"https://app.banjarmasinkota.go.id/sidinketik/img/absenpppk.jpeg\": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: "}
+
+[2026-02-20 09:54:17] Gagal mengirim teks ke 6287715965694! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not connect to services server, please reconnect"}
+
+[2026-02-20 09:54:17] Gagal mengirim gambar ke 6287715965694! Response: {"code":"AUTHENTICATION_ERROR","message":"you are not connect to services server, please reconnect"}
+

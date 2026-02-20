@@ -1,0 +1,100 @@
+1️⃣ Pastikan Prasyarat Terpenuhi
+
+✅ Go sudah terinstall
+Cek dengan:
+
+go version
+
+Jika muncul versi Go (misalnya go1.22.x), berarti sudah siap.
+
+✅ Server WhatsApp API sudah berjalan
+Misalnya di:
+
+http://localhost:3000
+
+Pastikan bisa diakses sebelum menjalankan program.
+
+2️⃣ Masuk ke Folder Project
+
+Buka CMD / PowerShell, lalu masuk ke folder tempat file send_csv.go berada.
+
+Contoh:
+
+cd C:\gowa\src
+
+Pastikan file ada:
+
+dir
+
+Harus terlihat:
+
+send_csv.go
+messages.csv
+3️⃣ Pastikan File CSV Ada
+
+Contoh isi messages.csv:
+
+6281234567890@s.whatsapp.net
+6289876543210@s.whatsapp.net
+
+Jika ada header, pastikan kode Go Anda menangani header.
+
+4️⃣ Jalankan Program
+
+Jika tidak menggunakan module:
+
+go run send_csv.go
+
+Jika menggunakan Go Module (ada file go.mod):
+
+go mod tidy
+go run send_csv.go
+5️⃣ Jika Ingin Dibuild Jadi File EXE
+
+Supaya bisa dijalankan tanpa go run:
+
+go build send_csv.go
+
+Akan muncul:
+
+send_csv.exe
+
+Jalankan dengan:
+
+send_csv.exe
+6️⃣ Jika Terjadi Error
+
+Tambahkan debug sederhana di dalam kode:
+
+fmt.Println("Program mulai berjalan...")
+
+Dan pastikan:
+
+API aktif
+
+Gambar valid (jpg/png)
+
+Nomor format benar (628xxx@s.whatsapp.net)
+
+7️⃣ Perkiraan Waktu Kirim 6000 Nomor
+
+Jika delay 3–10 detik random seperti sebelumnya:
+
+Rata-rata delay ≈ 6 detik
+
+Perhitungan:
+
+6000 x 6 detik = 36.000 detik
+36.000 / 3600 = 10 jam
+
+Jadi estimasi ≈ 10 jam (single-thread).
+
+Kalau mau, saya bisa buatkan:
+
+Versi dengan progress counter
+
+Versi multi-thread aman
+
+Versi dengan retry otomatis jika gagal
+
+Versi yang bisa resume jika terhe
